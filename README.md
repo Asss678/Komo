@@ -8,9 +8,7 @@ Komo es una plataforma educativa digital desarrollada con el objetivo de transfo
 
 La idea nace a partir de la necesidad de crear un entorno educativo más moderno, accesible y dinámico para estudiantes de diferentes edades y niveles académicos. Actualmente, muchas plataformas educativas son costosas, poco intuitivas o limitadas en cuanto a interacción entre estudiantes y tutores. Komo busca resolver este problema integrando tecnología, accesibilidad y un sistema innovador de intercambio digital.
 
-Nuestra plataforma pretende convertirse en un espacio donde el conocimiento sea más fácil de compartir y obtener, incentivando el aprendizaje colaborativo y el uso de herramientas tecnológicas dentro del ámbito educativo.
-
-⸻
+Nuestra plataforma pretende convertirse en un espacio donde el conocimiento sea más fácil de compartir y obtener, incentivando el aprendizaje colaborativo y el uso de herramientas tecnológicas dentro del ámbito educativo
 
 Descripción del Proyecto
 
@@ -29,7 +27,6 @@ Además, Komo busca integrar tecnologías modernas relacionadas con Web3 y block
 
 El propósito principal es construir una comunidad educativa donde el aprendizaje no dependa únicamente de métodos tradicionales, sino también de herramientas tecnológicas que faciliten la enseñanza y motiven a los estudiantes a participar activamente.
 
-⸻
 
 Problema
 
@@ -44,7 +41,6 @@ En la actualidad, muchos estudiantes enfrentan dificultades para acceder a tutor
 
 Muchos estudiantes necesitan apoyo adicional fuera del aula, pero no siempre encuentran herramientas accesibles o confiables que les permitan mejorar su rendimiento académico. Esto genera desigualdad educativa y limita el desarrollo de habilidades en muchos jóvenes.
 
-⸻
 
 Solución
 
@@ -63,8 +59,6 @@ Gracias al uso de una moneda virtual, el sistema podrá ser más dinámico y atr
 
 Komo no solo busca ofrecer contenido académico, sino también crear una experiencia educativa moderna que combine tecnología, accesibilidad e innovación.
 
-⸻
-
 Objetivos
 
 Objetivo General
@@ -80,7 +74,6 @@ Objetivos Específicos
 * Promover el aprendizaje accesible y colaborativo.
 * Integrar tecnologías Web3 y blockchain dentro del sistema.
 
-⸻
 
 Relación con los Objetivos de Desarrollo Sostenible (ODS)
 
@@ -98,7 +91,6 @@ ODS 10 — Reducción de las Desigualdades
 
 La plataforma busca brindar oportunidades educativas a estudiantes que no siempre tienen acceso a tutorías o apoyo académico tradicional.
 
-⸻
 
 Equipo de Trabajo
 
@@ -112,7 +104,6 @@ El proyecto fue desarrollado por:
 
 Cada integrante participa en el desarrollo de ideas, diseño, organización y planificación del proyecto con el objetivo de crear una propuesta innovadora para el ámbito educativo.
 
-⸻
 
 Tecnologías Utilizadas
 
@@ -128,19 +119,16 @@ Para el desarrollo de Komo se podrían utilizar las siguientes tecnologías:
 
 Estas herramientas permitirán construir una plataforma moderna, rápida y escalable.
 
-⸻
 
 Visión
 
 Convertir a Komo en una plataforma educativa reconocida por su innovación tecnológica y por facilitar el acceso al aprendizaje digital de manera accesible, organizada y segura.
 
-⸻
 
 Misión
 
 Brindar a los estudiantes una plataforma interactiva donde puedan aprender, compartir conocimiento y acceder a tutorías mediante herramientas tecnológicas modernas y accesibles.
 
-⸻
 
 Estado del Proyecto
 
